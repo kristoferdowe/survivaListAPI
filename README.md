@@ -1,5 +1,3 @@
-# survivaListAPI
-
 # Express Boilerplate!
 
 This is a boilerplate project used for the Survivalist API. It can be re-used as an Express Boilerplate
